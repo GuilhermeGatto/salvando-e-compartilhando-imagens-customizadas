@@ -238,7 +238,7 @@ class SegundaViewController: UIViewController {
 
 }
 ```
-
+![image01](https://raw.githubusercontent.com/GuilhermeGatto/salvando-e-compartilhando-imagens-customizadas/master/imagens/08.jpg)
 
 Esse tutorial fica por aqui, caso tenha alguma duvida entre em contato conosco.
 
