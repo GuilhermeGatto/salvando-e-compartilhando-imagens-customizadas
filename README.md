@@ -212,7 +212,7 @@ class ViewController: UIViewController, AVCapturePhotoCaptureDelegate {
 ```
 >Executando o aplicativo novamente, ao capturar a imagem, ela já é salva com o overlay.
 
-customizadas/master/imagens/06.jpg)
+![image01](https://raw.githubusercontent.com/GuilhermeGatto/salvando-e-compartilhando-imagens-customizadas/master/imagens/06.jpg)
 
 Vamos agora implementar a função capturar, para isso devemos voltar a classe **SegundaViewController.swift**.
 
