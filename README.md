@@ -8,7 +8,7 @@ Nesse tutorial será explicado como salvar e compartilhar imagens capturadas da 
 
 ## Vamos começar ##
 
-*Projeto incial encontra-se na branch master.*
+*Projeto incial encontra-se na branch **master**.*
 
 1. Abra o projeto no Xcode.
 2. Vamos adicionar uma nova StoryBoard chamada **SegundaTela.storyboard**.
